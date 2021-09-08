@@ -1,4 +1,4 @@
-
+package oppgaver.uke34;
 
 
 ////2.	Lag en min-metode på samme måte som maks-metoden i Programkode 1.1.2,
